@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width">
+	</head>
+	<body>
+		<div class="container">
+			<div class="body">
+				{{#if message}}
+					{{message}}
+				{{/if}}
+				<br>
+				<form method="POST" action="/login">
+					Username: <input type="text" name="username"> 
+					<br>
+					Password: <input type="password" name="password"> 
+					<br>
+					<input type="submit" value="Login" class="user"> 
+				</form>
+
+				<p>Don't have an account? <a href="/register">Register</a>.</p>
+			</div>
+		</div>
+	</body>
+</html>
+	

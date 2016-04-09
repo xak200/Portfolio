@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel='stylesheet' href='/stylesheets/style.css' />
+	</head>
+	<body>
+		<ul class="login">
+			{{#if user}}
+				<li><a href="/logout">Logout ({{user.username}})</a></li>
+			{{else}}
+				<li><a href="/login">Login</a></li>
+				<li><a href="/register">Register</a></li>
+			{{/if}}
+		</ul>
+		<ul class="toggle">
+			<li><a href="/">Home</a></li>
+			<li><a href="/about">About</a></li>
+			<li><a href="/meals">Menus</a></li>
+			<li><a href="/gallery">Gallery</a></li>
+			<li><a href="/reviews">Reviews</a></li>
+		</ul>
+		{{{body}}}
+	</body>
+</html>

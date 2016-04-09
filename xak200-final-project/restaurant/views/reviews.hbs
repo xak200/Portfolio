@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+		<script>
+			$(document).ready(function(){
+				$("button").click(function(){
+					$.post("/reviews/create",
+					{},
+					function(review,rating){ });
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="body">
+				<h3>{{heading3}}</h3>
+
+				<ul id="reviews">
+					{{#each reviews}}
+						{{review}} 	-	{{rating}}	
+						<br>
+						{{username}}
+						<br>
+						<br>
+					{{/each}}
+				</ul>
+				{{#if user}}
+					<script src="javascripts/clientCode.js"></script>
+					<p>Add your review here:</p>
+					<form method="POST" name="reviewForm" onsubmit="return validateForm()" action="/reviews/create">
+						<input type="hidden" name="username" value={{user.username}}>
+						<textarea id="data" name="review" style="width: 300px; height: 170px" rows="10" cols="80">{{data}}</textarea>
+						<br>
+						<br>
+						Rating: 
+						<div id="starbody">
+							<span class="star-rating">
+								<input type="radio" name="rating" value="1"><i></i>
+								<input type="radio" name="rating" value="2"><i></i>
+								<input type="radio" name="rating" value="3"><i></i>
+								<input type="radio" name="rating" value="4"><i></i>
+								<input type="radio" name="rating" value="5"><i></i>
+							</span>
+						</div>
+						<br>
+<!-- 						<input type="submit" value="Submit" id="submit"> -->
+						<button>Submit</button>
+					</form>
+				{{else}}
+					<p>Login <a href="/login">here</a> to write a review.</p>
+				{{/if}}
+			</div>
+		</div>
+		<script src="javascripts/clientCode.js"></script>
+	</body>
+</html>

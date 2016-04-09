@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+	<head>
+		<meta name="viewport" content="width=device-width">
+	</head>
+	<body>
+		<div class="container">
+			<div id="mealtoggle"><a href="/meals/breakfast">Breakfast</a> | <a href="/meals/brunch">Brunch</a> | <a href="/meals/dinner">Dinner</a></div>
+
+			<div class="body">
+				<h3>{{heading3}}</h3>
+	
+					<ul class="database">
+						{{#each itemList}}
+							<h4>{{type}}:</h4> {{name}} - {{price}} 
+							{{#if vegetarian}}
+								<img id="veggie" src="/images/veggie.png">
+							{{/if}}
+							{{#if vegan}}
+								<img id="vegan" src="/images/vegan.png">
+							{{/if}}
+							<br>
+							<br>
+						{{/each}}
+					</ul>
+
+				<br>
+				{{#if administrator}}
+					<form method="POST" action="/item/create">
+						<input type="hidden" name="mealName" value={{heading3}}>
+						<input type="text" name="name" value="name"> 
+						<input type="text" name="price" value="price">
+						<select type="boolean" name="vegetarian">
+							<option value="true">Vegetarian</option>
+							<option value="false">Not Vegetarian</option>
+						</select>
+						<select type="boolean" name="vegan">
+							<option value="true">Vegan</option>
+							<option value="false">Not Vegan</option>
+						</select>
+						<select type="text" name="type">
+							<option value="Side">Side</option>
+							<option value="Appetizer">Appetizer</option>
+							<option value="Main">Main</option>
+							<option value="Dessert">Dessert</option>
+							<option value="Beverage">Beverage</option>
+						</select>
+						<input type="submit" value="Add to menu" id="submit">
+					</form>
+				{{/if}}
+	
+				<div id="key">
+					<p>Key:</p>
+					<img id="veggie" src="/images/veggie.png"> = Vegetarian 
+					<img id="vegan" src="/images/vegan.png"> = Vegan
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
