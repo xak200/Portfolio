@@ -4,7 +4,7 @@
 
 Description:  
 
-My project is the website for a restaurant, supplying potential or returning customers with contact information and what the restaurant has to offer. Additionally, customers will be able to write reviews through the website.
+This application is a website for a fictional restaurant, supplying potential or returning customers with contact information and what the restaurant has to offer. Additionally, customers can write reviews through the website.
 
 
 Requirements:  
