@@ -1,4 +1,4 @@
-# Database
+# Database (SQL, noSQL)
 
 MongoDB Assignment Example:
 
