@@ -1,0 +1,67 @@
+1. How many schools had more than 20 AP test takers?
+{ "_id" : ObjectId("5667e5bdcc10d0bef764e9f2"), "DBN" : "01M448", "SchoolName" : "UNIVERSITY NEIGHBORHOOD H.S.", "AP Test Takers " : "39", "Total Exams Taken" : "49", "Number of Exams with scores 3 4 or 5" : "10" }
+{ "_id" : ObjectId("5667e5becc10d0bef764e9f4"), "DBN" : "01M515", "SchoolName" : "LOWER EASTSIDE PREP", "AP Test Takers " : "24", "Total Exams Taken" : "26", "Number of Exams with scores 3 4 or 5" : "24" }
+{ "_id" : ObjectId("5667e5becc10d0bef764e9f5"), "DBN" : "01M539", "SchoolName" : "NEW EXPLORATIONS SCI,TECH,MATH", "AP Test Takers " : "255", "Total Exams Taken" : "377", "Number of Exams with scores 3 4 or 5" : "191" }
+{ "_id" : ObjectId("5667e5becc10d0bef764e9f6"), "DBN" : "02M296", "SchoolName" : "High School of Hospitality Management", "AP Test Takers " : "s", "Total Exams Taken" : "s", "Number of Exams with scores 3 4 or 5" : "s" }
+{ "_id" : ObjectId("5667e5becc10d0bef764e9f7"), "DBN" : "02M298", "SchoolName" : "Pace High School", "AP Test Takers " : "21", "Total Exams Taken" : "21", "Number of Exams with scores 3 4 or 5" : "s" }
+{ "_id" : ObjectId("5667e5becc10d0bef764e9f8"), "DBN" : "02M300", "SchoolName" : "Urban Assembly School of Design and Construction,", "AP Test Takers " : "99", "Total Exams Taken" : "117", "Number of Exams with scores 3 4 or 5" : "10" }
+{ "_id" : ObjectId("5667e5becc10d0bef764e9f9"), "DBN" : "02M303", "SchoolName" : "Facing History School, The", "AP Test Takers " : "42", "Total Exams Taken" : "44", "Number of Exams with scores 3 4 or 5" : "s" }
+{ "_id" : ObjectId("5667e5becc10d0bef764e9fa"), "DBN" : "02M305", "SchoolName" : "Urban Assembly Academy of Government and Law, The", "AP Test Takers " : "25", "Total Exams Taken" : "37", "Number of Exams with scores 3 4 or 5" : "15" }
+{ "_id" : ObjectId("5667e5becc10d0bef764e9fb"), "DBN" : "02M308", "SchoolName" : "Lower Manhattan Arts Academy", "AP Test Takers " : "s", "Total Exams Taken" : "s", "Number of Exams with scores 3 4 or 5" : "s" }
+{ "_id" : ObjectId("5667e5becc10d0bef764e9fc"), "DBN" : "02M400", "SchoolName" : "HS FOR ENVIRONMENTAL STUDIES", "AP Test Takers " : "213", "Total Exams Taken" : "298", "Number of Exams with scores 3 4 or 5" : "152" }
+{ "_id" : ObjectId("5667e5becc10d0bef764e9fe"), "DBN" : "02M411", "SchoolName" : "BARUCH COLLEGE CAMPUS HS", "AP Test Takers " : "78", "Total Exams Taken" : "115", "Number of Exams with scores 3 4 or 5" : "88" }
+{ "_id" : ObjectId("5667e5becc10d0bef764ea01"), "DBN" : "02M414", "SchoolName" : "NYC MUSEUM SCHOOL", "AP Test Takers " : "s", "Total Exams Taken" : "s", "Number of Exams with scores 3 4 or 5" : "s" }
+{ "_id" : ObjectId("5667e5becc10d0bef764ea03"), "DBN" : "02M418", "SchoolName" : "Millennium High School", "AP Test Takers " : "86", "Total Exams Taken" : "95", "Number of Exams with scores 3 4 or 5" : "67" }
+{ "_id" : ObjectId("5667e5becc10d0bef764ea04"), "DBN" : "02M420", "SchoolName" : "HEALTH PROF & HUMAN SVCS", "AP Test Takers " : "204", "Total Exams Taken" : "248", "Number of Exams with scores 3 4 or 5" : "75" }
+{ "_id" : ObjectId("5667e5becc10d0bef764ea05"), "DBN" : "02M425", "SchoolName" : "H S FOR LEADERSHIP & PUBLIC", "AP Test Takers " : "70", "Total Exams Taken" : "84", "Number of Exams with scores 3 4 or 5" : "32" }
+{ "_id" : ObjectId("5667e5becc10d0bef764ea06"), "DBN" : "02M429", "SchoolName" : "LEGACY SCHOOL", "AP Test Takers " : "22", "Total Exams Taken" : "26", "Number of Exams with scores 3 4 or 5" : "s" }
+{ "_id" : ObjectId("5667e5becc10d0bef764ea07"), "DBN" : "02M439", "SchoolName" : "MANHATTAN VILLAGE ACADEMY HS", "AP Test Takers " : "42", "Total Exams Taken" : "69", "Number of Exams with scores 3 4 or 5" : "29" }
+{ "_id" : ObjectId("5667e5becc10d0bef764ea08"), "DBN" : "02M440", "SchoolName" : "HS FOR HUMANITIES", "AP Test Takers " : "6", "Total Exams Taken" : "6", "Number of Exams with scores 3 4 or 5" : "s" }
+{ "_id" : ObjectId("5667e5becc10d0bef764ea0a"), "DBN" : "02M460", "SchoolName" : "WASHINGTON IRVING HS", "AP Test Takers " : "69", "Total Exams Taken" : "83", "Number of Exams with scores 3 4 or 5" : "21" }
+{ "_id" : ObjectId("5667e5becc10d0bef764ea0d"), "DBN" : "02M519", "SchoolName" : "TALENT UNLIMITED", "AP Test Takers " : "30", "Total Exams Taken" : "34", "Number of Exams with scores 3 4 or 5" : "21" }
+
+(There were more documents to return, but there were a lot so I only included the first batch returned.)
+
+2. List five schools with the highest number of scores of 3, 4, or 5.
+{ "_id" : ObjectId("5667e5becc10d0bef764e9ff"), "DBN" : "02M412", "SchoolName" : "NYC LAB HS FOR COLL. STUDIES", "AP Test Takers " : "114", "Total Exams Taken" : "140", "Number of Exams with scores 3 4 or 5" : "97" }
+{ "_id" : ObjectId("5667e5becc10d0bef764eae2"), "DBN" : "30Q445", "SchoolName" : "WM CULLEN BRYANT HS", "AP Test Takers " : "243", "Total Exams Taken" : "330", "Number of Exams with scores 3 4 or 5" : "97" }
+{ "_id" : ObjectId("5667e5becc10d0bef764eaaa"), "DBN" : "20K445", "SchoolName" : "NEW UTRECHT HS", "AP Test Takers " : "174", "Total Exams Taken" : "271", "Number of Exams with scores 3 4 or 5" : "95" }
+{ "_id" : ObjectId("5667e5becc10d0bef764eaeb"), "DBN" : "31R450", "SchoolName" : "CURTIS HS", "AP Test Takers " : "247", "Total Exams Taken" : "295", "Number of Exams with scores 3 4 or 5" : "90" }
+{ "_id" : ObjectId("5667e5becc10d0bef764ea18"), "DBN" : "02M625", "SchoolName" : "HS COMMUNICATION GRAPHIC ART", "AP Test Takers " : "79", "Total Exams Taken" : "85", "Number of Exams with scores 3 4 or 5" : "9" }
+
+3. List the school name and number of exams taken for three schools.
+{ "SchoolName" : "UNIVERSITY NEIGHBORHOOD H.S.", "Total Exams Taken" : "49" }
+{ "SchoolName" : "EAST SIDE COMMUNITY HS", "Total Exams Taken" : "21" }
+{ "SchoolName" : "LOWER EASTSIDE PREP", "Total Exams Taken" : "26" }
+
+
+4. How many schools had fewer than 20 AP test takers?
+63
+
+5. How many schools had more than 50 exams with scores of 3, 4, or 5?
+158
+
+6. List the school name and the number of tests taken of schools who had zero exams with a score of 3, 4, or 5. 
+{ "SchoolName" : "EAST SIDE COMMUNITY HS", "Total Exams Taken" : "21" }
+{ "SchoolName" : "High School of Hospitality Management", "Total Exams Taken" : "s" }
+{ "SchoolName" : "Pace High School", "Total Exams Taken" : "21" }
+{ "SchoolName" : "Facing History School, The", "Total Exams Taken" : "44" }
+{ "SchoolName" : "Lower Manhattan Arts Academy", "Total Exams Taken" : "s" }
+{ "SchoolName" : "SCHOOL OF THE FUTURE", "Total Exams Taken" : "11" }
+{ "SchoolName" : "NYC MUSEUM SCHOOL", "Total Exams Taken" : "s" }
+{ "SchoolName" : "LEGACY SCHOOL", "Total Exams Taken" : "26" }
+{ "SchoolName" : "HS FOR HUMANITIES", "Total Exams Taken" : "6" }
+{ "SchoolName" : "HARBOR HIGH SCHOOL", "Total Exams Taken" : "7" }
+{ "SchoolName" : "WADLEIGH ARTS HIGH SCHOOL", "Total Exams Taken" : "73" }
+{ "SchoolName" : "FREDERICK DOUGLASS ACADEMY II", "Total Exams Taken" : "11" }
+{ "SchoolName" : "COALITION SCHL FOR SOCIAL CHG", "Total Exams Taken" : "18" }
+{ "SchoolName" : "PARK EAST H.S.", "Total Exams Taken" : "s" }
+{ "SchoolName" : "CENTRAL PARK EAST H.S.", "Total Exams Taken" : "s" }
+{ "SchoolName" : "YOUNG WOMEN'S LEADERSHIP SCH", "Total Exams Taken" : "s" }
+{ "SchoolName" : "Mott Hall High School", "Total Exams Taken" : "11" }
+{ "SchoolName" : "Academy for Social Action: A College Board School", "Total Exams Taken" : "17" }
+{ "SchoolName" : "CHOIR ACADEMY OF HARLEM", "Total Exams Taken" : "6" }
+{ "SchoolName" : "THURGOOD MARSHALL ACADEMY", "Total Exams Taken" : "38" }
+
+7. How many schools had 0 tests taken?
+25

@@ -1,0 +1,1811 @@
+[
+    {
+        "DBN": "01M448",
+        "SchoolName": "UNIVERSITY NEIGHBORHOOD H.S.",
+        "AP Test Takers ": "39",
+        "Total Exams Taken": "49",
+        "Number of Exams with scores 3 4 or 5": "10"
+    },
+    {
+        "DBN": "01M450",
+        "SchoolName": "EAST SIDE COMMUNITY HS",
+        "AP Test Takers ": "19",
+        "Total Exams Taken": "21",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "01M515",
+        "SchoolName": "LOWER EASTSIDE PREP",
+        "AP Test Takers ": "24",
+        "Total Exams Taken": "26",
+        "Number of Exams with scores 3 4 or 5": "24"
+    },
+    {
+        "DBN": "01M539",
+        "SchoolName": "NEW EXPLORATIONS SCI,TECH,MATH",
+        "AP Test Takers ": "255",
+        "Total Exams Taken": "377",
+        "Number of Exams with scores 3 4 or 5": "191"
+    },
+    {
+        "DBN": "02M296",
+        "SchoolName": "High School of Hospitality Management",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "02M298",
+        "SchoolName": "Pace High School",
+        "AP Test Takers ": "21",
+        "Total Exams Taken": "21",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "02M300",
+        "SchoolName": "Urban Assembly School of Design and Construction,",
+        "AP Test Takers ": "99",
+        "Total Exams Taken": "117",
+        "Number of Exams with scores 3 4 or 5": "10"
+    },
+    {
+        "DBN": "02M303",
+        "SchoolName": "Facing History School, The",
+        "AP Test Takers ": "42",
+        "Total Exams Taken": "44",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "02M305",
+        "SchoolName": "Urban Assembly Academy of Government and Law, The",
+        "AP Test Takers ": "25",
+        "Total Exams Taken": "37",
+        "Number of Exams with scores 3 4 or 5": "15"
+    },
+    {
+        "DBN": "02M308",
+        "SchoolName": "Lower Manhattan Arts Academy",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "02M400",
+        "SchoolName": "HS FOR ENVIRONMENTAL STUDIES",
+        "AP Test Takers ": "213",
+        "Total Exams Taken": "298",
+        "Number of Exams with scores 3 4 or 5": "152"
+    },
+    {
+        "DBN": "02M408",
+        "SchoolName": "PROFESSIONAL PERFORMING ARTS",
+        "AP Test Takers ": "20",
+        "Total Exams Taken": "20",
+        "Number of Exams with scores 3 4 or 5": "15"
+    },
+    {
+        "DBN": "02M411",
+        "SchoolName": "BARUCH COLLEGE CAMPUS HS",
+        "AP Test Takers ": "78",
+        "Total Exams Taken": "115",
+        "Number of Exams with scores 3 4 or 5": "88"
+    },
+    {
+        "DBN": "02M412",
+        "SchoolName": "NYC LAB HS FOR COLL. STUDIES",
+        "AP Test Takers ": "114",
+        "Total Exams Taken": "140",
+        "Number of Exams with scores 3 4 or 5": "97"
+    },
+    {
+        "DBN": "02M413",
+        "SchoolName": "SCHOOL OF THE FUTURE",
+        "AP Test Takers ": "11",
+        "Total Exams Taken": "11",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "02M414",
+        "SchoolName": "NYC MUSEUM SCHOOL",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "02M416",
+        "SchoolName": "Eleanor Roosevelt High School",
+        "AP Test Takers ": "155",
+        "Total Exams Taken": "235",
+        "Number of Exams with scores 3 4 or 5": "169"
+    },
+    {
+        "DBN": "02M418",
+        "SchoolName": "Millennium High School",
+        "AP Test Takers ": "86",
+        "Total Exams Taken": "95",
+        "Number of Exams with scores 3 4 or 5": "67"
+    },
+    {
+        "DBN": "02M420",
+        "SchoolName": "HEALTH PROF & HUMAN SVCS",
+        "AP Test Takers ": "204",
+        "Total Exams Taken": "248",
+        "Number of Exams with scores 3 4 or 5": "75"
+    },
+    {
+        "DBN": "02M425",
+        "SchoolName": "H S FOR LEADERSHIP & PUBLIC",
+        "AP Test Takers ": "70",
+        "Total Exams Taken": "84",
+        "Number of Exams with scores 3 4 or 5": "32"
+    },
+    {
+        "DBN": "02M429",
+        "SchoolName": "LEGACY SCHOOL",
+        "AP Test Takers ": "22",
+        "Total Exams Taken": "26",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "02M439",
+        "SchoolName": "MANHATTAN VILLAGE ACADEMY HS",
+        "AP Test Takers ": "42",
+        "Total Exams Taken": "69",
+        "Number of Exams with scores 3 4 or 5": "29"
+    },
+    {
+        "DBN": "02M440",
+        "SchoolName": "HS FOR HUMANITIES",
+        "AP Test Takers ": "6",
+        "Total Exams Taken": "6",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "02M459",
+        "SchoolName": "CES-MANHATTAN INTERNATIONAL",
+        "AP Test Takers ": "12",
+        "Total Exams Taken": "12",
+        "Number of Exams with scores 3 4 or 5": "6"
+    },
+    {
+        "DBN": "02M460",
+        "SchoolName": "WASHINGTON IRVING HS",
+        "AP Test Takers ": "69",
+        "Total Exams Taken": "83",
+        "Number of Exams with scores 3 4 or 5": "21"
+    },
+    {
+        "DBN": "02M475",
+        "SchoolName": "STUYVESANT HS",
+        "AP Test Takers ": "1510",
+        "Total Exams Taken": "2819",
+        "Number of Exams with scores 3 4 or 5": "2648"
+    },
+    {
+        "DBN": "02M489",
+        "SchoolName": "HS OF ECONOMICS & FINANCE",
+        "AP Test Takers ": "101",
+        "Total Exams Taken": "176",
+        "Number of Exams with scores 3 4 or 5": "78"
+    },
+    {
+        "DBN": "02M519",
+        "SchoolName": "TALENT UNLIMITED",
+        "AP Test Takers ": "30",
+        "Total Exams Taken": "34",
+        "Number of Exams with scores 3 4 or 5": "21"
+    },
+    {
+        "DBN": "02M520",
+        "SchoolName": "MURRY BERGTRAUM H.S.",
+        "AP Test Takers ": "118",
+        "Total Exams Taken": "157",
+        "Number of Exams with scores 3 4 or 5": "76"
+    },
+    {
+        "DBN": "02M529",
+        "SchoolName": "JACQUELINE K. ONASSIS HS",
+        "AP Test Takers ": "80",
+        "Total Exams Taken": "118",
+        "Number of Exams with scores 3 4 or 5": "29"
+    },
+    {
+        "DBN": "02M542",
+        "SchoolName": "Manhattan Bridges High School",
+        "AP Test Takers ": "67",
+        "Total Exams Taken": "102",
+        "Number of Exams with scores 3 4 or 5": "59"
+    },
+    {
+        "DBN": "02M545",
+        "SchoolName": "High School for Dual Language and Asian Studies",
+        "AP Test Takers ": "61",
+        "Total Exams Taken": "96",
+        "Number of Exams with scores 3 4 or 5": "89"
+    },
+    {
+        "DBN": "02M551",
+        "SchoolName": "HARBOR HIGH SCHOOL",
+        "AP Test Takers ": "7",
+        "Total Exams Taken": "7",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "02M575",
+        "SchoolName": "MANHATTAN COMP.NIGHT H.S.",
+        "AP Test Takers ": "58",
+        "Total Exams Taken": "100",
+        "Number of Exams with scores 3 4 or 5": "61"
+    },
+    {
+        "DBN": "02M580",
+        "SchoolName": "R.R.GREEN HS OF TEACHING",
+        "AP Test Takers ": "67",
+        "Total Exams Taken": "117",
+        "Number of Exams with scores 3 4 or 5": "40"
+    },
+    {
+        "DBN": "02M600",
+        "SchoolName": "HS FOR FASHION INDUSTRIES",
+        "AP Test Takers ": "70",
+        "Total Exams Taken": "87",
+        "Number of Exams with scores 3 4 or 5": "26"
+    },
+    {
+        "DBN": "02M615",
+        "SchoolName": "CHELSEA VHS",
+        "AP Test Takers ": "52",
+        "Total Exams Taken": "97",
+        "Number of Exams with scores 3 4 or 5": "13"
+    },
+    {
+        "DBN": "02M620",
+        "SchoolName": "NORMAN THOMAS H.S.",
+        "AP Test Takers ": "34",
+        "Total Exams Taken": "34",
+        "Number of Exams with scores 3 4 or 5": "14"
+    },
+    {
+        "DBN": "02M625",
+        "SchoolName": "HS COMMUNICATION GRAPHIC ART",
+        "AP Test Takers ": "79",
+        "Total Exams Taken": "85",
+        "Number of Exams with scores 3 4 or 5": "9"
+    },
+    {
+        "DBN": "02M630",
+        "SchoolName": "HS OF ART AND DESIGN",
+        "AP Test Takers ": "84",
+        "Total Exams Taken": "100",
+        "Number of Exams with scores 3 4 or 5": "33"
+    },
+    {
+        "DBN": "02M655",
+        "SchoolName": "LIFE SCIENCES SECONDARY SCHL",
+        "AP Test Takers ": "50",
+        "Total Exams Taken": "90",
+        "Number of Exams with scores 3 4 or 5": "10"
+    },
+    {
+        "DBN": "03M415",
+        "SchoolName": "WADLEIGH ARTS HIGH SCHOOL",
+        "AP Test Takers ": "65",
+        "Total Exams Taken": "73",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "03M470",
+        "SchoolName": "LOUIS D. BRANDEIS HS",
+        "AP Test Takers ": "48",
+        "Total Exams Taken": "70",
+        "Number of Exams with scores 3 4 or 5": "6"
+    },
+    {
+        "DBN": "03M479",
+        "SchoolName": "BEACON SCHOOL",
+        "AP Test Takers ": "166",
+        "Total Exams Taken": "197",
+        "Number of Exams with scores 3 4 or 5": "140"
+    },
+    {
+        "DBN": "03M485",
+        "SchoolName": "FIORELLO H.LAGUARDIA HS",
+        "AP Test Takers ": "691",
+        "Total Exams Taken": "1236",
+        "Number of Exams with scores 3 4 or 5": "790"
+    },
+    {
+        "DBN": "03M494",
+        "SchoolName": "MLK, JR HS FOR ARTS & TECH",
+        "AP Test Takers ": "38",
+        "Total Exams Taken": "38",
+        "Number of Exams with scores 3 4 or 5": "6"
+    },
+    {
+        "DBN": "03M860",
+        "SchoolName": "FREDERICK DOUGLASS ACADEMY II",
+        "AP Test Takers ": "11",
+        "Total Exams Taken": "11",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "04M409",
+        "SchoolName": "COALITION SCHL FOR SOCIAL CHG",
+        "AP Test Takers ": "18",
+        "Total Exams Taken": "18",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "04M435",
+        "SchoolName": "MANHATTAN CENTER-SCIENCE&MATH",
+        "AP Test Takers ": "328",
+        "Total Exams Taken": "426",
+        "Number of Exams with scores 3 4 or 5": "261"
+    },
+    {
+        "DBN": "04M495",
+        "SchoolName": "PARK EAST H.S.",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "04M555",
+        "SchoolName": "CENTRAL PARK EAST H.S.",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "04M610",
+        "SchoolName": "THE YOUNG WOMEN'S LEADERSHIP SCHOOL OF EAST HARLEM",
+        "AP Test Takers ": "41",
+        "Total Exams Taken": "55",
+        "Number of Exams with scores 3 4 or 5": "29"
+    },
+    {
+        "DBN": "04M610",
+        "SchoolName": "YOUNG WOMEN'S LEADERSHIP SCH",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "05M304",
+        "SchoolName": "Mott Hall High School",
+        "AP Test Takers ": "11",
+        "Total Exams Taken": "11",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "05M367",
+        "SchoolName": "Academy for Social Action: A College Board School",
+        "AP Test Takers ": "17",
+        "Total Exams Taken": "17",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "05M469",
+        "SchoolName": "CHOIR ACADEMY OF HARLEM",
+        "AP Test Takers ": "6",
+        "Total Exams Taken": "6",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "05M499",
+        "SchoolName": "FREDRICK DOUGLAS SEC. SCHOOL",
+        "AP Test Takers ": "163",
+        "Total Exams Taken": "226",
+        "Number of Exams with scores 3 4 or 5": "159"
+    },
+    {
+        "DBN": "05M670",
+        "SchoolName": "THURGOOD MARSHALL ACADEMY",
+        "AP Test Takers ": "37",
+        "Total Exams Taken": "38",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "05M692",
+        "SchoolName": "HIGH SCHOOL FOR MATH SCIENCE ENGINEERING @ CCNY",
+        "AP Test Takers ": "114",
+        "Total Exams Taken": "124",
+        "Number of Exams with scores 3 4 or 5": "71"
+    },
+    {
+        "DBN": "06M462",
+        "SchoolName": "H.S. INT'L BUSINESS & FINANCE",
+        "AP Test Takers ": "108",
+        "Total Exams Taken": "135",
+        "Number of Exams with scores 3 4 or 5": "43"
+    },
+    {
+        "DBN": "06M463",
+        "SchoolName": "H.S. MEDIA & COMMUNICATIONS",
+        "AP Test Takers ": "37",
+        "Total Exams Taken": "64",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "06M467",
+        "SchoolName": "H.S. LAW & PUBLIC SERVICE",
+        "AP Test Takers ": "141",
+        "Total Exams Taken": "212",
+        "Number of Exams with scores 3 4 or 5": "82"
+    },
+    {
+        "DBN": "06M468",
+        "SchoolName": "H.S. HEALTH CAREERS & SCIENCE",
+        "AP Test Takers ": "32",
+        "Total Exams Taken": "38",
+        "Number of Exams with scores 3 4 or 5": "17"
+    },
+    {
+        "DBN": "06M540",
+        "SchoolName": "A PHILIP RANDOLPH CAMPUS",
+        "AP Test Takers ": "165",
+        "Total Exams Taken": "222",
+        "Number of Exams with scores 3 4 or 5": "72"
+    },
+    {
+        "DBN": "06M552",
+        "SchoolName": "GREGORIO LUPERON HS SCI & MATH",
+        "AP Test Takers ": "88",
+        "Total Exams Taken": "138",
+        "Number of Exams with scores 3 4 or 5": "73"
+    },
+    {
+        "DBN": "07X221",
+        "SchoolName": "South Bronx Preparatory: A College Board School",
+        "AP Test Takers ": "63",
+        "Total Exams Taken": "89",
+        "Number of Exams with scores 3 4 or 5": "24"
+    },
+    {
+        "DBN": "07X500",
+        "SchoolName": "LINCOLN ACADEMY/ HOSTOS",
+        "AP Test Takers ": "64",
+        "Total Exams Taken": "107",
+        "Number of Exams with scores 3 4 or 5": "39"
+    },
+    {
+        "DBN": "07X520",
+        "SchoolName": "FOREIGN LANG ACAD/GLOBAL STUD",
+        "AP Test Takers ": "13",
+        "Total Exams Taken": "13",
+        "Number of Exams with scores 3 4 or 5": "12"
+    },
+    {
+        "DBN": "07X527",
+        "SchoolName": "Bronx Leadership Academy II High School",
+        "AP Test Takers ": "30",
+        "Total Exams Taken": "30",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "07X547",
+        "SchoolName": "New Explorers High School",
+        "AP Test Takers ": "18",
+        "Total Exams Taken": "18",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "07X548",
+        "SchoolName": "Urban Assembly School for Careers in Sports",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "07X551",
+        "SchoolName": "Bronx Academy of Letters",
+        "AP Test Takers ": "53",
+        "Total Exams Taken": "92",
+        "Number of Exams with scores 3 4 or 5": "37"
+    },
+    {
+        "DBN": "07X600",
+        "SchoolName": "ALFRED E. SMITH VHS",
+        "AP Test Takers ": "11",
+        "Total Exams Taken": "11",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "07X655",
+        "SchoolName": "SAMUEL GOMPERS VHS",
+        "AP Test Takers ": "77",
+        "Total Exams Taken": "126",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "07X670",
+        "SchoolName": "HEALTH OPPORTUNITIES PROGRAM",
+        "AP Test Takers ": "61",
+        "Total Exams Taken": "117",
+        "Number of Exams with scores 3 4 or 5": "29"
+    },
+    {
+        "DBN": "08X282",
+        "SchoolName": "Women's Academy of Excellence",
+        "AP Test Takers ": "21",
+        "Total Exams Taken": "22",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "08X293",
+        "SchoolName": "Renaissance High School for Musical Theater & Tech",
+        "AP Test Takers ": "22",
+        "Total Exams Taken": "29",
+        "Number of Exams with scores 3 4 or 5": "14"
+    },
+    {
+        "DBN": "08X295",
+        "SchoolName": "Gateway School for Environmental Research and Tech",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "08X305",
+        "SchoolName": "Pablo Neruda Academy for Architecture and World St",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "08X312",
+        "SchoolName": "Millennium Art Academy",
+        "AP Test Takers ": "35",
+        "Total Exams Taken": "55",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "08X332",
+        "SchoolName": "Holcombe L. Rucker School of Community Research",
+        "AP Test Takers ": "20",
+        "Total Exams Taken": "28",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "08X405",
+        "SchoolName": "HERBERT LEHMAN HS",
+        "AP Test Takers ": "430",
+        "Total Exams Taken": "532",
+        "Number of Exams with scores 3 4 or 5": "197"
+    },
+    {
+        "DBN": "08X540",
+        "SchoolName": "School for Community Research and Learning",
+        "AP Test Takers ": "9",
+        "Total Exams Taken": "9",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "08X650",
+        "SchoolName": "JANE ADDAMS VHS",
+        "AP Test Takers ": "44",
+        "Total Exams Taken": "69",
+        "Number of Exams with scores 3 4 or 5": "8"
+    },
+    {
+        "DBN": "09X231",
+        "SchoolName": "Eagle Academy for Young Men",
+        "AP Test Takers ": "32",
+        "Total Exams Taken": "44",
+        "Number of Exams with scores 3 4 or 5": "11"
+    },
+    {
+        "DBN": "09X239",
+        "SchoolName": "Urban Assembly Academy for History and Citizenship",
+        "AP Test Takers ": "9",
+        "Total Exams Taken": "9",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "09X241",
+        "SchoolName": "Urban Assembly School for Applied Math and Science",
+        "AP Test Takers ": "16",
+        "Total Exams Taken": "16",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "09X250",
+        "SchoolName": "Eximius College Preparatory Academy: A College Boa",
+        "AP Test Takers ": "90",
+        "Total Exams Taken": "146",
+        "Number of Exams with scores 3 4 or 5": "11"
+    },
+    {
+        "DBN": "09X260",
+        "SchoolName": "Bronx Center for Science and Mathematics",
+        "AP Test Takers ": "62",
+        "Total Exams Taken": "80",
+        "Number of Exams with scores 3 4 or 5": "35"
+    },
+    {
+        "DBN": "09X263",
+        "SchoolName": "Validus Preparatory Academy: An Expeditionary Lear",
+        "AP Test Takers ": "7",
+        "Total Exams Taken": "7",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "09X276",
+        "SchoolName": "Leadership Institute",
+        "AP Test Takers ": "17",
+        "Total Exams Taken": "17",
+        "Number of Exams with scores 3 4 or 5": "7"
+    },
+    {
+        "DBN": "09X329",
+        "SchoolName": "DreamYard Preparatory School",
+        "AP Test Takers ": "15",
+        "Total Exams Taken": "15",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "09X365",
+        "SchoolName": "Academy for Language and Technology",
+        "AP Test Takers ": "20",
+        "Total Exams Taken": "20",
+        "Number of Exams with scores 3 4 or 5": "20"
+    },
+    {
+        "DBN": "09X412",
+        "SchoolName": "BRONX HIGH SCHOOL OF BUSINESS",
+        "AP Test Takers ": "26",
+        "Total Exams Taken": "31",
+        "Number of Exams with scores 3 4 or 5": "9"
+    },
+    {
+        "DBN": "09X414",
+        "SchoolName": "J. LEVIN HS FOR MEDIA & COMM.",
+        "AP Test Takers ": "18",
+        "Total Exams Taken": "18",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "09X505",
+        "SchoolName": "BRONX SCH FOR LAW, GOVT, JUST",
+        "AP Test Takers ": "45",
+        "Total Exams Taken": "55",
+        "Number of Exams with scores 3 4 or 5": "27"
+    },
+    {
+        "DBN": "09X517",
+        "SchoolName": "FREDERICK DOUGLASS ACADEMY III",
+        "AP Test Takers ": "26",
+        "Total Exams Taken": "36",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "09X525",
+        "SchoolName": "BRONX LEADERSHIP ACADEMY HS",
+        "AP Test Takers ": "40",
+        "Total Exams Taken": "42",
+        "Number of Exams with scores 3 4 or 5": "8"
+    },
+    {
+        "DBN": "10X141",
+        "SchoolName": "MS/HS 141 D A STEIN RIV/KINGSB",
+        "AP Test Takers ": "133",
+        "Total Exams Taken": "184",
+        "Number of Exams with scores 3 4 or 5": "119"
+    },
+    {
+        "DBN": "10X213",
+        "SchoolName": "Bronx Engineering and Technology Academy",
+        "AP Test Takers ": "107",
+        "Total Exams Taken": "228",
+        "Number of Exams with scores 3 4 or 5": "10"
+    },
+    {
+        "DBN": "10X225",
+        "SchoolName": "Theatre Arts Production Company School",
+        "AP Test Takers ": "17",
+        "Total Exams Taken": "27",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "10X237",
+        "SchoolName": "The Marie Curie School for Medicine, Nursing, and",
+        "AP Test Takers ": "15",
+        "Total Exams Taken": "15",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "10X243",
+        "SchoolName": "West Bronx Academy for the Future",
+        "AP Test Takers ": "25",
+        "Total Exams Taken": "29",
+        "Number of Exams with scores 3 4 or 5": "14"
+    },
+    {
+        "DBN": "10X268",
+        "SchoolName": "Kingsbridge International High School",
+        "AP Test Takers ": "32",
+        "Total Exams Taken": "37",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "10X284",
+        "SchoolName": "Bronx School of Law and Finance",
+        "AP Test Takers ": "21",
+        "Total Exams Taken": "27",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "10X342",
+        "SchoolName": "International School for Liberal Arts",
+        "AP Test Takers ": "55",
+        "Total Exams Taken": "73",
+        "Number of Exams with scores 3 4 or 5": "45"
+    },
+    {
+        "DBN": "10X368",
+        "SchoolName": "MS/HS 368 INFO & NETWORK TECH",
+        "AP Test Takers ": "40",
+        "Total Exams Taken": "54",
+        "Number of Exams with scores 3 4 or 5": "17"
+    },
+    {
+        "DBN": "10X433",
+        "SchoolName": "HS FOR TEACHING & PROFESSIONS",
+        "AP Test Takers ": "62",
+        "Total Exams Taken": "83",
+        "Number of Exams with scores 3 4 or 5": "13"
+    },
+    {
+        "DBN": "10X434",
+        "SchoolName": "BELMONT PREPARATORY HIGH SCHL",
+        "AP Test Takers ": "31",
+        "Total Exams Taken": "45",
+        "Number of Exams with scores 3 4 or 5": "10"
+    },
+    {
+        "DBN": "10X437",
+        "SchoolName": "FORDHAM HS FOR THE ARTS",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "10X438",
+        "SchoolName": "FORDHAM LDRSHP ACAD BUS & TECH",
+        "AP Test Takers ": "42",
+        "Total Exams Taken": "47",
+        "Number of Exams with scores 3 4 or 5": "12"
+    },
+    {
+        "DBN": "10X439",
+        "SchoolName": "BRONX HS OF LAW & COMM SERVICE",
+        "AP Test Takers ": "44",
+        "Total Exams Taken": "65",
+        "Number of Exams with scores 3 4 or 5": "9"
+    },
+    {
+        "DBN": "10X440",
+        "SchoolName": "DEWITT CLINTON HS",
+        "AP Test Takers ": "366",
+        "Total Exams Taken": "540",
+        "Number of Exams with scores 3 4 or 5": "262"
+    },
+    {
+        "DBN": "10X442",
+        "SchoolName": "Celia Cruz Bronx High School of Music, The",
+        "AP Test Takers ": "31",
+        "Total Exams Taken": "35",
+        "Number of Exams with scores 3 4 or 5": "8"
+    },
+    {
+        "DBN": "10X445",
+        "SchoolName": "BRONX HS OF SCIENCE",
+        "AP Test Takers ": "1190",
+        "Total Exams Taken": "2435",
+        "Number of Exams with scores 3 4 or 5": "2189"
+    },
+    {
+        "DBN": "10X475",
+        "SchoolName": "JOHN F KENNEDY HS",
+        "AP Test Takers ": "46",
+        "Total Exams Taken": "48",
+        "Number of Exams with scores 3 4 or 5": "19"
+    },
+    {
+        "DBN": "10X477",
+        "SchoolName": "MARBLE HILL HS FOR INT STUDIES",
+        "AP Test Takers ": "83",
+        "Total Exams Taken": "141",
+        "Number of Exams with scores 3 4 or 5": "37"
+    },
+    {
+        "DBN": "10X546",
+        "SchoolName": "Bronx Theatre High School",
+        "AP Test Takers ": "34",
+        "Total Exams Taken": "34",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "10X549",
+        "SchoolName": "Discovery High School",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "10X696",
+        "SchoolName": "HIGH SCHOOL OF AMERICAN STUDIES At Lehman College",
+        "AP Test Takers ": "194",
+        "Total Exams Taken": "302",
+        "Number of Exams with scores 3 4 or 5": "243"
+    },
+    {
+        "DBN": "11X249",
+        "SchoolName": "Bronx Health Sciences High School",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "11X253",
+        "SchoolName": "Bronx High School for Writing and Communication Ar",
+        "AP Test Takers ": "28",
+        "Total Exams Taken": "30",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "11X270",
+        "SchoolName": "Academy for Scholarship and Entrepreneurship: A Co",
+        "AP Test Takers ": "24",
+        "Total Exams Taken": "24",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "11X275",
+        "SchoolName": "High School of Computers and Technology",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "11X288",
+        "SchoolName": "Collegiate Institute for Math and Science",
+        "AP Test Takers ": "79",
+        "Total Exams Taken": "111",
+        "Number of Exams with scores 3 4 or 5": "33"
+    },
+    {
+        "DBN": "11X299",
+        "SchoolName": "Astor Collegiate Academy",
+        "AP Test Takers ": "36",
+        "Total Exams Taken": "48",
+        "Number of Exams with scores 3 4 or 5": "12"
+    },
+    {
+        "DBN": "11X415",
+        "SchoolName": "CHRISTOPHER COLUMBUS HS",
+        "AP Test Takers ": "34",
+        "Total Exams Taken": "34",
+        "Number of Exams with scores 3 4 or 5": "6"
+    },
+    {
+        "DBN": "11X418",
+        "SchoolName": "BRONX HS FOR THE VISUAL ARTS",
+        "AP Test Takers ": "26",
+        "Total Exams Taken": "41",
+        "Number of Exams with scores 3 4 or 5": "9"
+    },
+    {
+        "DBN": "11X455",
+        "SchoolName": "HARRY S TRUMAN HS",
+        "AP Test Takers ": "103",
+        "Total Exams Taken": "135",
+        "Number of Exams with scores 3 4 or 5": "27"
+    },
+    {
+        "DBN": "11X513",
+        "SchoolName": "New World High School",
+        "AP Test Takers ": "12",
+        "Total Exams Taken": "12",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "11X542",
+        "SchoolName": "Pelham Preparatory Academy",
+        "AP Test Takers ": "46",
+        "Total Exams Taken": "57",
+        "Number of Exams with scores 3 4 or 5": "17"
+    },
+    {
+        "DBN": "12X248",
+        "SchoolName": "Metropolitan High School, The",
+        "AP Test Takers ": "25",
+        "Total Exams Taken": "25",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "12X267",
+        "SchoolName": "Bronx Latin",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "12X271",
+        "SchoolName": "East Bronx Academy for the Future",
+        "AP Test Takers ": "32",
+        "Total Exams Taken": "37",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "12X278",
+        "SchoolName": "Peace and Diversity Academy",
+        "AP Test Takers ": "8",
+        "Total Exams Taken": "8",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "12X682",
+        "SchoolName": "FANNIE LOU HAMER FREEDOM HS",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "12X684",
+        "SchoolName": "WINGS ACADEMY",
+        "AP Test Takers ": "20",
+        "Total Exams Taken": "27",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "12X690",
+        "SchoolName": "MONROE ACADEMY - BUSINESS/LAW",
+        "AP Test Takers ": "7",
+        "Total Exams Taken": "7",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "13K265",
+        "SchoolName": "Dr Susan S McKinney Secondary School of the Arts",
+        "AP Test Takers ": "17",
+        "Total Exams Taken": "22",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "13K412",
+        "SchoolName": "Brooklyn Community High School of Communication, A",
+        "AP Test Takers ": "21",
+        "Total Exams Taken": "21",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "13K419",
+        "SchoolName": "SCIENCE SKILLS CENTER",
+        "AP Test Takers ": "52",
+        "Total Exams Taken": "59",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "13K430",
+        "SchoolName": "BROOKLYN TECHNICAL HS",
+        "AP Test Takers ": "2117",
+        "Total Exams Taken": "3692",
+        "Number of Exams with scores 3 4 or 5": "2687"
+    },
+    {
+        "DBN": "13K483",
+        "SchoolName": "Urban Assembly School for Law and Justice, The",
+        "AP Test Takers ": "31",
+        "Total Exams Taken": "57",
+        "Number of Exams with scores 3 4 or 5": "24"
+    },
+    {
+        "DBN": "13K499",
+        "SchoolName": "ACORN COMMUNITY HIGH SCHOOL",
+        "AP Test Takers ": "64",
+        "Total Exams Taken": "95",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "13K509",
+        "SchoolName": "FREEDOM ACADEMY H.S.",
+        "AP Test Takers ": "74",
+        "Total Exams Taken": "89",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "13K595",
+        "SchoolName": "Bedford Academy High School",
+        "AP Test Takers ": "43",
+        "Total Exams Taken": "57",
+        "Number of Exams with scores 3 4 or 5": "16"
+    },
+    {
+        "DBN": "13K605",
+        "SchoolName": "GEORGE WESTINGHOUSE",
+        "AP Test Takers ": "35",
+        "Total Exams Taken": "35",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "13K670",
+        "SchoolName": "BENJAMIN BANNEKER ACADEMY",
+        "AP Test Takers ": "132",
+        "Total Exams Taken": "149",
+        "Number of Exams with scores 3 4 or 5": "62"
+    },
+    {
+        "DBN": "14K071",
+        "SchoolName": "JHS 071 JUAN MOREL CAMPOS",
+        "AP Test Takers ": "16",
+        "Total Exams Taken": "16",
+        "Number of Exams with scores 3 4 or 5": "12"
+    },
+    {
+        "DBN": "14K322",
+        "SchoolName": "Foundations Academy",
+        "AP Test Takers ": "42",
+        "Total Exams Taken": "53",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "14K474",
+        "SchoolName": "PROGRESS HIGH SCHOOL",
+        "AP Test Takers ": "50",
+        "Total Exams Taken": "66",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "14K477",
+        "SchoolName": "HIGH SCHOOL OF LEGAL STUDIES",
+        "AP Test Takers ": "24",
+        "Total Exams Taken": "27",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "14K478",
+        "SchoolName": "HS OF ENTERPRISE AND TECH",
+        "AP Test Takers ": "94",
+        "Total Exams Taken": "129",
+        "Number of Exams with scores 3 4 or 5": "19"
+    },
+    {
+        "DBN": "14K488",
+        "SchoolName": "Brooklyn Preparatory High School",
+        "AP Test Takers ": "28",
+        "Total Exams Taken": "46",
+        "Number of Exams with scores 3 4 or 5": "7"
+    },
+    {
+        "DBN": "14K558",
+        "SchoolName": "Williamsburg High School for Architecture and Desi",
+        "AP Test Takers ": "30",
+        "Total Exams Taken": "48",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "14K561",
+        "SchoolName": "Williamsburg Preparatory School",
+        "AP Test Takers ": "31",
+        "Total Exams Taken": "41",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "14K685",
+        "SchoolName": "EL PUENTE ACADEMY",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "15K463",
+        "SchoolName": "Secondary School for Journalism",
+        "AP Test Takers ": "22",
+        "Total Exams Taken": "22",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "15K497",
+        "SchoolName": "SCHOOL FOR INTERNATL.STUDIES",
+        "AP Test Takers ": "30",
+        "Total Exams Taken": "34",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "15K519",
+        "SchoolName": "COBBLE HILL SCH OF AMER STUDIE",
+        "AP Test Takers ": "25",
+        "Total Exams Taken": "36",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "15K530",
+        "SchoolName": "METROPOLITAN CORP. ACADEMY",
+        "AP Test Takers ": "14",
+        "Total Exams Taken": "14",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "15K656",
+        "SchoolName": "BROOKLYN H.S. FOR THE ARTS",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "16K455",
+        "SchoolName": "BOYS AND GIRLS HS",
+        "AP Test Takers ": "22",
+        "Total Exams Taken": "32",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "16K498",
+        "SchoolName": "Acorn High School for Social Justice",
+        "AP Test Takers ": "49",
+        "Total Exams Taken": "80",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "17K382",
+        "SchoolName": "Academy for College Preparation and Career Explora",
+        "AP Test Takers ": "64",
+        "Total Exams Taken": "82",
+        "Number of Exams with scores 3 4 or 5": "7"
+    },
+    {
+        "DBN": "17K528",
+        "SchoolName": "High School for Global Citizenship, The",
+        "AP Test Takers ": "20",
+        "Total Exams Taken": "34",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "17K537",
+        "SchoolName": "High School for Youth and Community Development at",
+        "AP Test Takers ": "21",
+        "Total Exams Taken": "37",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "17K546",
+        "SchoolName": "High School for Public Service: Heroes of Tomorro",
+        "AP Test Takers ": "106",
+        "Total Exams Taken": "130",
+        "Number of Exams with scores 3 4 or 5": "13"
+    },
+    {
+        "DBN": "17K547",
+        "SchoolName": "Brooklyn Academy of Science and the Environment",
+        "AP Test Takers ": "49",
+        "Total Exams Taken": "59",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "17K548",
+        "SchoolName": "Brooklyn School for Music & Theatre",
+        "AP Test Takers ": "37",
+        "Total Exams Taken": "41",
+        "Number of Exams with scores 3 4 or 5": "9"
+    },
+    {
+        "DBN": "17K590",
+        "SchoolName": "MIDDLE COLL HS @ MEDGAR EVERS",
+        "AP Test Takers ": "272",
+        "Total Exams Taken": "507",
+        "Number of Exams with scores 3 4 or 5": "86"
+    },
+    {
+        "DBN": "17K600",
+        "SchoolName": "CLARA BARTON VHS",
+        "AP Test Takers ": "135",
+        "Total Exams Taken": "211",
+        "Number of Exams with scores 3 4 or 5": "63"
+    },
+    {
+        "DBN": "17K625",
+        "SchoolName": "PAUL ROBESON HS",
+        "AP Test Takers ": "50",
+        "Total Exams Taken": "51",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "18K415",
+        "SchoolName": "SAMUEL J. TILDEN HS",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "18K500",
+        "SchoolName": "CANARSIE HS",
+        "AP Test Takers ": "11",
+        "Total Exams Taken": "14",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "19K409",
+        "SchoolName": "EAST NEW YORK FAMILY ACADEMY",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "19K420",
+        "SchoolName": "FRANKLIN K LANE HIGH SCHOOL",
+        "AP Test Takers ": "10",
+        "Total Exams Taken": "10",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "19K504",
+        "SchoolName": "High School for Civil Rights",
+        "AP Test Takers ": "12",
+        "Total Exams Taken": "18",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "19K507",
+        "SchoolName": "Performing Arts and Technology High School",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "19K510",
+        "SchoolName": "World Academy for Total Community Health High Scho",
+        "AP Test Takers ": "22",
+        "Total Exams Taken": "22",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "19K583",
+        "SchoolName": "Multicultural High School",
+        "AP Test Takers ": "44",
+        "Total Exams Taken": "44",
+        "Number of Exams with scores 3 4 or 5": "39"
+    },
+    {
+        "DBN": "19K615",
+        "SchoolName": "ENY-TRANSIT TECH HS",
+        "AP Test Takers ": "138",
+        "Total Exams Taken": "164",
+        "Number of Exams with scores 3 4 or 5": "18"
+    },
+    {
+        "DBN": "19K659",
+        "SchoolName": "Cypress Hills Collegiate Preparatory School",
+        "AP Test Takers ": "21",
+        "Total Exams Taken": "21",
+        "Number of Exams with scores 3 4 or 5": "10"
+    },
+    {
+        "DBN": "19K660",
+        "SchoolName": "WM H MAXWELL VHS",
+        "AP Test Takers ": "46",
+        "Total Exams Taken": "46",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "20K445",
+        "SchoolName": "NEW UTRECHT HS",
+        "AP Test Takers ": "174",
+        "Total Exams Taken": "271",
+        "Number of Exams with scores 3 4 or 5": "95"
+    },
+    {
+        "DBN": "20K485",
+        "SchoolName": "HS OF TELECOMMUNICATIONS",
+        "AP Test Takers ": "251",
+        "Total Exams Taken": "413",
+        "Number of Exams with scores 3 4 or 5": "123"
+    },
+    {
+        "DBN": "20K490",
+        "SchoolName": "FORT HAMILTON HS",
+        "AP Test Takers ": "357",
+        "Total Exams Taken": "576",
+        "Number of Exams with scores 3 4 or 5": "331"
+    },
+    {
+        "DBN": "20K505",
+        "SchoolName": "F.D. ROOSEVELT HS",
+        "AP Test Takers ": "228",
+        "Total Exams Taken": "340",
+        "Number of Exams with scores 3 4 or 5": "186"
+    },
+    {
+        "DBN": "21K344",
+        "SchoolName": "Rachel Carson High School for Coastal Studies",
+        "AP Test Takers ": "34",
+        "Total Exams Taken": "64",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "21K348",
+        "SchoolName": "High School of Sports Management",
+        "AP Test Takers ": "10",
+        "Total Exams Taken": "10",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "21K400",
+        "SchoolName": "LAFAYETTE HS",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "21K410",
+        "SchoolName": "ABRAHAM LINCOLN HS",
+        "AP Test Takers ": "133",
+        "Total Exams Taken": "193",
+        "Number of Exams with scores 3 4 or 5": "18"
+    },
+    {
+        "DBN": "21K525",
+        "SchoolName": "EDWARD R MURROW HS",
+        "AP Test Takers ": "397",
+        "Total Exams Taken": "577",
+        "Number of Exams with scores 3 4 or 5": "307"
+    },
+    {
+        "DBN": "21K540",
+        "SchoolName": "JOHN DEWEY H.S.",
+        "AP Test Takers ": "232",
+        "Total Exams Taken": "370",
+        "Number of Exams with scores 3 4 or 5": "154"
+    },
+    {
+        "DBN": "21K690",
+        "SchoolName": "BROOKLYN STUDIO SCHOOL",
+        "AP Test Takers ": "39",
+        "Total Exams Taken": "43",
+        "Number of Exams with scores 3 4 or 5": "13"
+    },
+    {
+        "DBN": "22K405",
+        "SchoolName": "MIDWOOD HS",
+        "AP Test Takers ": "745",
+        "Total Exams Taken": "1223",
+        "Number of Exams with scores 3 4 or 5": "758"
+    },
+    {
+        "DBN": "22K425",
+        "SchoolName": "JAMES MADISON HS",
+        "AP Test Takers ": "323",
+        "Total Exams Taken": "463",
+        "Number of Exams with scores 3 4 or 5": "188"
+    },
+    {
+        "DBN": "22K495",
+        "SchoolName": "SHEEPSHEAD BAY HS",
+        "AP Test Takers ": "37",
+        "Total Exams Taken": "59",
+        "Number of Exams with scores 3 4 or 5": "27"
+    },
+    {
+        "DBN": "22K535",
+        "SchoolName": "LEON GOLDSTEIN HS SCIENCES",
+        "AP Test Takers ": "367",
+        "Total Exams Taken": "575",
+        "Number of Exams with scores 3 4 or 5": "382"
+    },
+    {
+        "DBN": "23K493",
+        "SchoolName": "Brooklyn Collegiate: A College Board School",
+        "AP Test Takers ": "15",
+        "Total Exams Taken": "16",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "23K514",
+        "SchoolName": "Frederick Douglass Academy VII High School",
+        "AP Test Takers ": "39",
+        "Total Exams Taken": "40",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "23K697",
+        "SchoolName": "TEACHERS PREPARATORY SCHOOL",
+        "AP Test Takers ": "33",
+        "Total Exams Taken": "37",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "24Q264",
+        "SchoolName": "Academy of Finance and Enterprise",
+        "AP Test Takers ": "95",
+        "Total Exams Taken": "137",
+        "Number of Exams with scores 3 4 or 5": "40"
+    },
+    {
+        "DBN": "24Q267",
+        "SchoolName": "High School of Applied Communication",
+        "AP Test Takers ": "46",
+        "Total Exams Taken": "48",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "24Q455",
+        "SchoolName": "NEWTOWN HS",
+        "AP Test Takers ": "174",
+        "Total Exams Taken": "200",
+        "Number of Exams with scores 3 4 or 5": "117"
+    },
+    {
+        "DBN": "24Q485",
+        "SchoolName": "GROVER CLEVELAND HS",
+        "AP Test Takers ": "200",
+        "Total Exams Taken": "274",
+        "Number of Exams with scores 3 4 or 5": "112"
+    },
+    {
+        "DBN": "24Q550",
+        "SchoolName": "HIGH SCHOOL FOR ARTS & BUSINESS",
+        "AP Test Takers ": "198",
+        "Total Exams Taken": "320",
+        "Number of Exams with scores 3 4 or 5": "73"
+    },
+    {
+        "DBN": "24Q600",
+        "SchoolName": "QUEENS VHS",
+        "AP Test Takers ": "27",
+        "Total Exams Taken": "27",
+        "Number of Exams with scores 3 4 or 5": "20"
+    },
+    {
+        "DBN": "24Q610",
+        "SchoolName": "AVIATION CAREER & TECHNICAL H.S.",
+        "AP Test Takers ": "130",
+        "Total Exams Taken": "140",
+        "Number of Exams with scores 3 4 or 5": "61"
+    },
+    {
+        "DBN": "25Q285",
+        "SchoolName": "World Journalism Preparatory: A College Board Scho",
+        "AP Test Takers ": "65",
+        "Total Exams Taken": "87",
+        "Number of Exams with scores 3 4 or 5": "18"
+    },
+    {
+        "DBN": "25Q425",
+        "SchoolName": "JOHN BOWNE HS",
+        "AP Test Takers ": "176",
+        "Total Exams Taken": "229",
+        "Number of Exams with scores 3 4 or 5": "116"
+    },
+    {
+        "DBN": "25Q460",
+        "SchoolName": "FLUSHING HS",
+        "AP Test Takers ": "324",
+        "Total Exams Taken": "424",
+        "Number of Exams with scores 3 4 or 5": "136"
+    },
+    {
+        "DBN": "25Q525",
+        "SchoolName": "TOWNSEND HARRIS HS",
+        "AP Test Takers ": "613",
+        "Total Exams Taken": "796",
+        "Number of Exams with scores 3 4 or 5": "625"
+    },
+    {
+        "DBN": "25Q670",
+        "SchoolName": "R F KENNEDY COLLABORATIVE H S",
+        "AP Test Takers ": "77",
+        "Total Exams Taken": "112",
+        "Number of Exams with scores 3 4 or 5": "43"
+    },
+    {
+        "DBN": "26Q415",
+        "SchoolName": "BENJAMIN N. CARDOZO",
+        "AP Test Takers ": "676",
+        "Total Exams Taken": "1145",
+        "Number of Exams with scores 3 4 or 5": "796"
+    },
+    {
+        "DBN": "26Q430",
+        "SchoolName": "FRANCIS LEWIS HS",
+        "AP Test Takers ": "697",
+        "Total Exams Taken": "1033",
+        "Number of Exams with scores 3 4 or 5": "583"
+    },
+    {
+        "DBN": "26Q435",
+        "SchoolName": "MARTIN VAN BUREN HS",
+        "AP Test Takers ": "71",
+        "Total Exams Taken": "101",
+        "Number of Exams with scores 3 4 or 5": "15"
+    },
+    {
+        "DBN": "26Q495",
+        "SchoolName": "BAYSIDE HS",
+        "AP Test Takers ": "480",
+        "Total Exams Taken": "686",
+        "Number of Exams with scores 3 4 or 5": "413"
+    },
+    {
+        "DBN": "26Q566",
+        "SchoolName": "Queens High School of Teaching, Liberal Arts and t",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "27Q262",
+        "SchoolName": "Channel View School for Research",
+        "AP Test Takers ": "43",
+        "Total Exams Taken": "69",
+        "Number of Exams with scores 3 4 or 5": "18"
+    },
+    {
+        "DBN": "27Q323",
+        "SchoolName": "Scholars' Academy",
+        "AP Test Takers ": "55",
+        "Total Exams Taken": "121",
+        "Number of Exams with scores 3 4 or 5": "57"
+    },
+    {
+        "DBN": "27Q400",
+        "SchoolName": "AUGUST MARTIN HS",
+        "AP Test Takers ": "19",
+        "Total Exams Taken": "28",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "27Q475",
+        "SchoolName": "RICHMOND HILL HS",
+        "AP Test Takers ": "142",
+        "Total Exams Taken": "170",
+        "Number of Exams with scores 3 4 or 5": "55"
+    },
+    {
+        "DBN": "27Q480",
+        "SchoolName": "JOHN ADAMS HS",
+        "AP Test Takers ": "140",
+        "Total Exams Taken": "168",
+        "Number of Exams with scores 3 4 or 5": "33"
+    },
+    {
+        "DBN": "27Q650",
+        "SchoolName": "High School for Construction Trades, Engineering a",
+        "AP Test Takers ": "91",
+        "Total Exams Taken": "109",
+        "Number of Exams with scores 3 4 or 5": "21"
+    },
+    {
+        "DBN": "28Q440",
+        "SchoolName": "FOREST HILLS HS",
+        "AP Test Takers ": "733",
+        "Total Exams Taken": "1116",
+        "Number of Exams with scores 3 4 or 5": "526"
+    },
+    {
+        "DBN": "28Q470",
+        "SchoolName": "JAMAICA HS",
+        "AP Test Takers ": "64",
+        "Total Exams Taken": "76",
+        "Number of Exams with scores 3 4 or 5": "8"
+    },
+    {
+        "DBN": "28Q505",
+        "SchoolName": "HILLCREST HS",
+        "AP Test Takers ": "241",
+        "Total Exams Taken": "362",
+        "Number of Exams with scores 3 4 or 5": "50"
+    },
+    {
+        "DBN": "28Q620",
+        "SchoolName": "THOS A EDISON VHS",
+        "AP Test Takers ": "183",
+        "Total Exams Taken": "244",
+        "Number of Exams with scores 3 4 or 5": "100"
+    },
+    {
+        "DBN": "28Q680",
+        "SchoolName": "GATEWAY TO HEALTH SCIENCES",
+        "AP Test Takers ": "89",
+        "Total Exams Taken": "136",
+        "Number of Exams with scores 3 4 or 5": "57"
+    },
+    {
+        "DBN": "28Q687",
+        "SchoolName": "Queens HS for Science York Colllege",
+        "AP Test Takers ": "215",
+        "Total Exams Taken": "338",
+        "Number of Exams with scores 3 4 or 5": "275"
+    },
+    {
+        "DBN": "28Q690",
+        "SchoolName": "High School for Law Enforcement and Public Safety",
+        "AP Test Takers ": "19",
+        "Total Exams Taken": "19",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "28Q896",
+        "SchoolName": "Young Women's Leadership School, Queens",
+        "AP Test Takers ": "6",
+        "Total Exams Taken": "6",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "29Q248",
+        "SchoolName": "Queens Preparatory Academy",
+        "AP Test Takers ": "15",
+        "Total Exams Taken": "15",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "29Q259",
+        "SchoolName": "Pathways College Preparatory School: A College Boa",
+        "AP Test Takers ": "29",
+        "Total Exams Taken": "71",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "29Q272",
+        "SchoolName": "George Washington Carver High School for the Scien",
+        "AP Test Takers ": "14",
+        "Total Exams Taken": "21",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "29Q283",
+        "SchoolName": "Preparatory Academy for Writers",
+        "AP Test Takers ": "40",
+        "Total Exams Taken": "43",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "29Q420",
+        "SchoolName": "SPRINGFIELD GARDENS HS",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "29Q492",
+        "SchoolName": "MATH/SCIENCE RESEARCH TECH CTR",
+        "AP Test Takers ": "22",
+        "Total Exams Taken": "31",
+        "Number of Exams with scores 3 4 or 5": "8"
+    },
+    {
+        "DBN": "29Q496",
+        "SchoolName": "BUSINESS/COMPUTER APPLICATIONS",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "30Q445",
+        "SchoolName": "WM CULLEN BRYANT HS",
+        "AP Test Takers ": "243",
+        "Total Exams Taken": "330",
+        "Number of Exams with scores 3 4 or 5": "97"
+    },
+    {
+        "DBN": "30Q450",
+        "SchoolName": "LONG ISLAND CITY HS",
+        "AP Test Takers ": "406",
+        "Total Exams Taken": "805",
+        "Number of Exams with scores 3 4 or 5": "169"
+    },
+    {
+        "DBN": "30Q501",
+        "SchoolName": "FRANK SINATRA HIGH SCHOOL",
+        "AP Test Takers ": "108",
+        "Total Exams Taken": "136",
+        "Number of Exams with scores 3 4 or 5": "38"
+    },
+    {
+        "DBN": "30Q502",
+        "SchoolName": "INFORMATION TECHNOLOGY HS",
+        "AP Test Takers ": "51",
+        "Total Exams Taken": "74",
+        "Number of Exams with scores 3 4 or 5": "13"
+    },
+    {
+        "DBN": "30Q555",
+        "SchoolName": "NEWCOMERS HS:ACAD AMER STD",
+        "AP Test Takers ": "119",
+        "Total Exams Taken": "163",
+        "Number of Exams with scores 3 4 or 5": "140"
+    },
+    {
+        "DBN": "30Q575",
+        "SchoolName": "ACADEMY OF AMER. STUDIES HS",
+        "AP Test Takers ": "101",
+        "Total Exams Taken": "170",
+        "Number of Exams with scores 3 4 or 5": "119"
+    },
+    {
+        "DBN": "31R080",
+        "SchoolName": "PS 080 MICHAEL J. PETRIDES",
+        "AP Test Takers ": "162",
+        "Total Exams Taken": "243",
+        "Number of Exams with scores 3 4 or 5": "66"
+    },
+    {
+        "DBN": "31R440",
+        "SchoolName": "NEW DORP HS",
+        "AP Test Takers ": "96",
+        "Total Exams Taken": "118",
+        "Number of Exams with scores 3 4 or 5": "62"
+    },
+    {
+        "DBN": "31R445",
+        "SchoolName": "PORT RICHMOND HS",
+        "AP Test Takers ": "194",
+        "Total Exams Taken": "304",
+        "Number of Exams with scores 3 4 or 5": "76"
+    },
+    {
+        "DBN": "31R450",
+        "SchoolName": "CURTIS HS",
+        "AP Test Takers ": "247",
+        "Total Exams Taken": "295",
+        "Number of Exams with scores 3 4 or 5": "90"
+    },
+    {
+        "DBN": "31R455",
+        "SchoolName": "TOTTENVILLE HS",
+        "AP Test Takers ": "396",
+        "Total Exams Taken": "687",
+        "Number of Exams with scores 3 4 or 5": "206"
+    },
+    {
+        "DBN": "31R460",
+        "SchoolName": "SUSAN E. WAGNER HS",
+        "AP Test Takers ": "279",
+        "Total Exams Taken": "408",
+        "Number of Exams with scores 3 4 or 5": "175"
+    },
+    {
+        "DBN": "31R600",
+        "SchoolName": "RAPLH MCKEE VHS",
+        "AP Test Takers ": "s",
+        "Total Exams Taken": "s",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "31R605",
+        "SchoolName": "STATEN ISLAND TECHNICAL HS",
+        "AP Test Takers ": "528",
+        "Total Exams Taken": "905",
+        "Number of Exams with scores 3 4 or 5": "809"
+    },
+    {
+        "DBN": "32K545",
+        "SchoolName": "EBC-HS FOR PUB SERVICE (BUSH)",
+        "AP Test Takers ": "47",
+        "Total Exams Taken": "64",
+        "Number of Exams with scores 3 4 or 5": "13"
+    },
+    {
+        "DBN": "32K552",
+        "SchoolName": "Academy of Urban Planning",
+        "AP Test Takers ": "76",
+        "Total Exams Taken": "100",
+        "Number of Exams with scores 3 4 or 5": "10"
+    },
+    {
+        "DBN": "32K554",
+        "SchoolName": "All City Leadership Secondary School",
+        "AP Test Takers ": "7",
+        "Total Exams Taken": "8",
+        "Number of Exams with scores 3 4 or 5": "s"
+    },
+    {
+        "DBN": "32K556",
+        "SchoolName": "Bushwick Leaders High School for Academic Excellen",
+        "AP Test Takers ": "34",
+        "Total Exams Taken": "35",
+        "Number of Exams with scores 3 4 or 5": "18"
+    },
+    {
+        "DBN": ""
+    }
+]
