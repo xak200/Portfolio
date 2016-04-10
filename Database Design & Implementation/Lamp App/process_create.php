@@ -10,7 +10,7 @@
  //connect to the database server
  $cxn = mysqli_connect(	"warehouse.cims.nyu.edu", 
  						"xak200", 
- 						"9fdrthby", 
+ 						"********", 
  						"xak200_db_hw5");
  
 
