@@ -28,11 +28,12 @@ perform an analysis on the data.
 
 Pre-LAMP App Assignment Example:
 
-This assignment consists of the work to preface the LAMP assignment. I used SQL to write scripts to:
-- create all of the tables for controlled vocabularies ("reference tables") needed along with the INSERT queries required 
+This assignment consists of the work that prefaced the LAMP assignment. I used SQL to write scripts to populate a mySQL database. 
+I implemented the following operations:
+- created all of the tables for controlled vocabularies ("reference tables") needed along with the INSERT queries required 
 to populate those tables
-- create all of the tables that will be used with user data entry and/or imported data files
-- populate the second set of tables with test data (a dozen records or so per table would likely suffice for testing purposes) 
+- created all of the tables that will be used with user data entry and/or imported data files
+- populated the second set of tables with test data (a dozen records or so per table would likely suffice for testing purposes) 
 and/or a script that imports data from text files
 
 
@@ -41,7 +42,7 @@ and/or a script that imports data from text files
 
 LAMP App Assignment Example:
 
-This assignment uses Linux, mySQL, and PHP, CSS, and HTML. 
+This assignment uses Linux, PHP, CSS, and HTML. This assignment uses the mySQL database from the Pre-LAMP assignment.
 
 Contains:
 + an opening page to introduce the project
