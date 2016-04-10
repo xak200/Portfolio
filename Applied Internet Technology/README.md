@@ -2,12 +2,12 @@
 
 ![Alt text](./documentation/cookies.jpg?raw=true "Optional Title")
 
-Description:  
+DESCRIPTION--  
 
 This application is a website for a fictional restaurant, supplying potential or returning customers with contact information and what the restaurant has to offer. Additionally, customers can write reviews through the website.
 
 
-Requirements:  
+REQUIREMENTS-- 
 
 schemas:  
 
@@ -33,8 +33,8 @@ schemas:
 	
 	var UserSchema = new mongoose.Schema({ });
 
--wireframes
-----------------------------------------------------------------
+WIREFRAMES--
+
 Homepage:
 ![Wireframes](./documentation/Homepage.png?raw=true "Wireframes")
 ----------------------------------------------------------------
@@ -57,8 +57,7 @@ Gallery:
 ![Wireframes](./documentation/Gallery.png?raw=true "Wireframes")
 ----------------------------------------------------------------
 
--site map
-----------------------------------------------------------------
+SITE MAP--
 ![Site maps](./documentation/sitemap.png?raw=true "Site Maps")
 
 - what it does(user stories, use case diagram):
