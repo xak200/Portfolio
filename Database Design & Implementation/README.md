@@ -26,7 +26,7 @@ Contains:
  - a "menu" screen
  - reports based on data in database as follows:
    *  both reports run against a minimum of 2 tables
-   *  reports includes hyperlinks
+    *  reports includes hyperlinks
    *  reports includes images
    *  reports that open webpages offer the user a drop-down box allowing the user to determine the field(s) to use for sorting 
   the data in the report
