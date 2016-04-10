@@ -60,13 +60,13 @@ Gallery:
 -site map
 ![Site maps](./documentation/sitemap.png?raw=true "Site Maps")
 
--what it does(user stories, use case diagram):
+- what it does(user stories, use case diagram):
 * 'as a customer, i want to know the address of the restaurant'
 * 'as a customer, i want to know what's available for breakfast, brunch, and dinner'
 * 'as an authenticated customer, i want to be able to write reviews'
 * 'as an admin, i want to be able to add items to the menu'
 
--modules researched and used(9 pts):
+- modules researched and used(9 pts):
 * (3 pts) User authentication 
 * (1 pt) Pre-built Express templates
 * (1 pt) Integrate JSHint into your workflow
