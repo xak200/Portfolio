@@ -42,5 +42,6 @@ Operating Systems:
 In this course, I am learning to create applications for Apple’s iOS on both the iPhone and the iPad using Objective-C, 
 Apple's new programming language Swift, Apple iOS Frameworks, and the iOS SDK. I am building and testing applications on my 
 Apple Mac using the Xcode development environment, compiler and simulator. 
+
 There is currently no code in the GitHub folder. If you would like to see samples, please e-mail me at xak200@nyu.edu.
 Code will be added at the end of the course in May 2016.
