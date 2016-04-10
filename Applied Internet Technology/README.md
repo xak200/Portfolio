@@ -58,6 +58,7 @@ Gallery:
 ----------------------------------------------------------------
 
 SITE MAP--
+
 ![Site maps](./documentation/sitemap.png?raw=true "Site Maps")
 
 - what it does(user stories, use case diagram):
