@@ -17,6 +17,28 @@ These are the questions I answered:
 -----------------
 
 
+Data Scrubbing and Excel Assignment Example:
+
+This assignment uses Python to clean a datafile downloaded from the internet. Excel was then used to parse the data and 
+perform an analysis on the data.
+
+
+-----------------
+
+
+Pre-LAMP App Assignment Example:
+
+This assignment consists of the work to preface the LAMP assignment. I used SQL to write scripts to:
+- create all of the tables for controlled vocabularies ("reference tables") needed along with the INSERT queries required 
+to populate those tables
+- create all of the tables that will be used with user data entry and/or imported data files
+- populate the second set of tables with test data (a dozen records or so per table would likely suffice for testing purposes) 
+and/or a script that imports data from text files
+
+
+-----------------
+
+
 LAMP App Assignment Example:
 
 This assignment uses Linux, mySQL, and PHP, CSS, and HTML. 
