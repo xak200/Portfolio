@@ -6,6 +6,7 @@ This is an example of code I wrote for a class project that uses Mongo, Mongoose
 I implemented a restaurant website, which supplies potential or returning customers with contact information and menus. Customers
 are also able to write reviews through the website.
 
+-------------------
 
 Database Design & Implementation:
 
