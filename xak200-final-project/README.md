@@ -1,6 +1,6 @@
 # xak200-final-project
 
-![Alt text](/documentation/cookies.jpg?raw=true "Optional Title")
+![Alt text](./documentation/cookies.jpg?raw=true "Optional Title")
 
 Description:  
 
