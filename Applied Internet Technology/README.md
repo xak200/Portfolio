@@ -4,7 +4,7 @@
 
 Description:  
 
-My project will be the website for a restaurant, supplying potential or returning customers with contact information and what the restaurant has to offer. Additionally, customers will be able to write reviews through the website.
+My project is the website for a restaurant, supplying potential or returning customers with contact information and what the restaurant has to offer. Additionally, customers will be able to write reviews through the website.
 
 
 Requirements:  
