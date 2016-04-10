@@ -61,23 +61,23 @@ Gallery:
 ![Site maps](./documentation/sitemap.png?raw=true "Site Maps")
 
 - what it does(user stories, use case diagram):
-* 'as a customer, i want to know the address of the restaurant'
-* 'as a customer, i want to know what's available for breakfast, brunch, and dinner'
-* 'as an authenticated customer, i want to be able to write reviews'
-* 'as an admin, i want to be able to add items to the menu'
+ * 'as a customer, i want to know the address of the restaurant'
+ * 'as a customer, i want to know what's available for breakfast, brunch, and dinner'
+ * 'as an authenticated customer, i want to be able to write reviews'
+ * 'as an admin, i want to be able to add items to the menu'
 
 - modules researched and used(9 pts):
-* (3 pts) User authentication 
-* (1 pt) Pre-built Express templates
-* (1 pt) Integrate JSHint into your workflow
-* (1 pt) Use grunt, gulp, or even make (!) to automate any of the following … must be used in combination with one or more of the other requirements, such as:
+ * (3 pts) User authentication 
+ * (1 pt) Pre-built Express templates
+ * (1 pt) Integrate JSHint into your workflow
+ * (1 pt) Use grunt, gulp, or even make (!) to automate any of the following … must be used in combination with one or more of the other requirements, such as:
 	Automated minification and concatenation of JavaScript and CSS files
 	Automated compiling of CSS preprocessing language
 	Running your unit or functional tests
-* (1 pt) Automated minification
-* (1 pt) CSS Preprocesser -Less
-* (1 pt/lib) Use a client-side JavaScript library (JQuery)
-* (1 pt) Responsive Design 
+ * (1 pt) Automated minification
+ * (1 pt) CSS Preprocesser -Less
+ * (1 pt/lib) Use a client-side JavaScript library (JQuery)
+ * (1 pt) Responsive Design 
 
 ADDITIONAL INFO:
 * Log in as 'xaria', with password: 'kirtikar' to be logged in as admin, and to add items to menu.
