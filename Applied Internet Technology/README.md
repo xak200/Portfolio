@@ -57,7 +57,7 @@ Gallery:
 ![Wireframes](./documentation/Gallery.png?raw=true "Wireframes")
 ----------------------------------------------------------------
 
--site map
+site map:
 
 ![Site maps](./documentation/sitemap.png?raw=true "Site Maps")
 
