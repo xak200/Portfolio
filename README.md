@@ -2,7 +2,7 @@
 
 [Applied Internet Technology](./Applied%20Internet%20Technology):
 
-This is an example of code I wrote for a class project that uses Mongo, Mongoose, Node, javascript, Express, CSS, and HTML.
+This is an example of code I wrote for a class project that uses Mongo, Mongoose, Node, JavaScript, Express, CSS, and HTML.
 I implemented a restaurant website, which supplies potential or returning customers with contact information and menus. Customers
 are also able to write reviews through the website.
 
