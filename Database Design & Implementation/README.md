@@ -2,7 +2,7 @@
 
 MongoDB Assignment Example:
 
-This assignment uses JSON, MongoDB, and noSQL.
+This assignment uses JSON, MongoDB, and NoSQL.
 
 These are the questions I answered:
 - How many zip codes are there in your home state?
