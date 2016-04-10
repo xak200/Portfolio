@@ -30,5 +30,5 @@ Contains:
      *  reports includes images
       *  reports that open webpages offer the user a drop-down box allowing the user to determine the field(s) to use for sorting 
   the data in the report
-       *  reports include a drop-down user selection on the form that is created using PHP to cull data from a table in MySQL database
-        *  reports indicates to the user if no records meet the criteria 
+    *  reports include a drop-down user selection on the form that is created using PHP to cull data from a table in MySQL database
+    *  reports indicates to the user if no records meet the criteria 
