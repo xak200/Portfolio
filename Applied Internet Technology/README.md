@@ -36,29 +36,29 @@ schemas:
 -wireframes
 ----------------------------------------------------------------
 Homepage:
-![Wireframes](/documentation/Homepage.png?raw=true "Wireframes")
+![Wireframes](./documentation/Homepage.png?raw=true "Wireframes")
 ----------------------------------------------------------------
 Breakfast Menu:
-![Wireframes](/documentation/Breakfast.png?raw=true "Wireframes")
+![Wireframes](./documentation/Breakfast.png?raw=true "Wireframes")
 ----------------------------------------------------------------
 Brunch Menu:
-![Wireframes](/documentation/Brunch.png?raw=true "Wireframes")
+![Wireframes](./documentation/Brunch.png?raw=true "Wireframes")
 ----------------------------------------------------------------
 Dinner Menu:
-![Wireframes](/documentation/Dinner.png?raw=true "Wireframes")
+![Wireframes](./documentation/Dinner.png?raw=true "Wireframes")
 ----------------------------------------------------------------
 Reviews
-![Wireframes](/documentation/Reviews.png?raw=true "Wireframes")
+![Wireframes](./documentation/Reviews.png?raw=true "Wireframes")
 ----------------------------------------------------------------
 About:
-![Wireframes](/documentation/About.png?raw=true "Wireframes")
+![Wireframes](./documentation/About.png?raw=true "Wireframes")
 ----------------------------------------------------------------
 Gallery:
-![Wireframes](/documentation/Gallery.png?raw=true "Wireframes")
+![Wireframes](./documentation/Gallery.png?raw=true "Wireframes")
 ----------------------------------------------------------------
 
 -site map
-![Site maps](/documentation/sitemap.png?raw=true "Site Maps")
+![Site maps](./documentation/sitemap.png?raw=true "Site Maps")
 
 -what it does(user stories, use case diagram):
 * 'as a customer, i want to know the address of the restaurant'
