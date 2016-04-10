@@ -22,13 +22,13 @@ LAMP App Assignment Example:
 This assignment uses Linux, mySQL, and PHP, CSS, and HTML. 
 
 Contains:
-+ an opening page to introduce the project
- - a "menu" screen
- - reports based on data in database as follows:
-  - both reports run against a minimum of 2 tables
-  - reports includes hyperlinks
-  - reports includes images
-  - reports that open webpages offer the user a drop-down box allowing the user to determine the field(s) to use for sorting 
+* an opening page to introduce the project
+ * a "menu" screen
+ * reports based on data in database as follows:
+  * both reports run against a minimum of 2 tables
+  * reports includes hyperlinks
+  * reports includes images
+  * reports that open webpages offer the user a drop-down box allowing the user to determine the field(s) to use for sorting 
   the data in the report
-  - reports include a drop-down user selection on the form that is created using PHP to cull data from a table in MySQL database
-  - reports indicates to the user if no records meet the criteria 
+  * reports include a drop-down user selection on the form that is created using PHP to cull data from a table in MySQL database
+  * reports indicates to the user if no records meet the criteria 
