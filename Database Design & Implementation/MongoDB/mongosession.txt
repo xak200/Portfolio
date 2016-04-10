@@ -10,9 +10,7 @@ switched to db hw8
 Wed Dec  9 03:05:57.549 ReferenceError: apScores is not defined
 > db.createCollection("apScores")
 { "ok" : 1 }
-> show collections
-apScores
-system.indexes
+> mongoimport --db hw8 --collection apScores --type json --file apscores.json -port 3298
 > show collections
 apScores
 system.indexes
