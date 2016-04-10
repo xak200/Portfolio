@@ -1,4 +1,4 @@
-# xak200-final-project
+# Applied Internet Technology
 
 ![Alt text](./documentation/cookies.jpg?raw=true "Optional Title")
 
