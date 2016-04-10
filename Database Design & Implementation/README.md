@@ -1,7 +1,6 @@
 # Portfolio
 
 MongoDB Assignment Example:
-
 This assignment uses JSON, MongoDB, and noSQL.
 
 These are the questions I answered:
@@ -15,7 +14,6 @@ These are the questions I answered:
 
 
 LAMP App Assignment Example:
-
 This assignment uses Linux, mySQL, and PHP, CSS, and HTML. 
 
 Contains:
