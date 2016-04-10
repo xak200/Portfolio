@@ -1,6 +1,6 @@
 # Portfolio
 
-Applied Internet Technology:
+[Applied Internet Technology](./Applied%20Internet%20Technology)
 
 This is an example of code I wrote for a class project that uses Mongo, Mongoose, Node, javascript, Express, CSS, and HTML.
 I implemented a restaurant website, which supplies potential or returning customers with contact information and menus. Customers
