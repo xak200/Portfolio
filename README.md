@@ -12,7 +12,7 @@ are also able to write reviews through the website.
 
 [Database Design & Implementation](./Database%20Design%20%26%20Implementation):
 
-This folder contains SQL, noSQL, PHP, and JSON code I wrote in my database class, using the mySQL and Mongo databases, and Linux.
+This folder contains SQL, NoSQL, PHP, and JSON code I wrote in my database class, using the mySQL and Mongo databases, and Linux.
 I've included two sample assignments. The MongoDB assignment reads high school students' AP scores from a JSON file into a 
 MongoDB collection. It answers seven questions related to this data.
 The LAMP assignment is an online database application 
