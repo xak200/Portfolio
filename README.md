@@ -31,7 +31,14 @@ Code will be added at the end of the course in May 2016.
 
 
 [Operating Systems](./Operating%20Systems):
-- C++
+
+This course focused on the core concepts of operating systems, covering: 
+- processes and threads
+- concurrency and synchronization, deadlocks and preventions
+- memory management, virtual memory and computer architecture facilitating it (pagetables, segmentation)
+- file systems and secondary storage
+
+The samples include Java code for a linker, and C++ code for memory management.
 
 
 -------------------
