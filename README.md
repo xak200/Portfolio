@@ -2,9 +2,9 @@
 
 [Applied Internet Technology](./Applied%20Internet%20Technology):
 
-This is an example of code I wrote for a class project that uses Mongo, Mongoose, Node, JavaScript, Express, CSS, and HTML.
-I implemented a restaurant website, which supplies potential or returning customers with contact information and menus. Customers
-are also able to write reviews through the website.
+This folder includes an example of code I wrote for a class project that uses Mongo, Mongoose, Node, JavaScript, Express, 
+CSS, and HTML. I implemented a restaurant website, which supplies potential or returning customers with contact information 
+and menus. Customers are also able to write reviews through the website.
 
 
 -------------------
@@ -22,6 +22,17 @@ The LAMP assignment is an online database application
 
 
 [Intro to Machine Learning](./Intro%20to%20Machine%20Learning):
+
+In this class, I am learning about the theoretical foundations of machine learning and how to apply machine learning to solve 
+new problems.
+
+Topics covered so far include:
+- Perceptron algorithm
+- Support vector machines (Pegasos algorithm)
+- Kernel methods
+- Learning theory
+- Decision Trees
+- K-means clustering
 
 There is currently no code in the GitHub folder. If you would like to see samples, please e-mail me at xak200@nyu.edu.
 Code will be added at the end of the course in May 2016.
