@@ -1,0 +1,16 @@
+# All of the sources participating in the build are defined here
+memoryManage.o: memoryManage.cpp
+	@echo ‘Building file: $<‘
+	g++49 -std=gnu++11 -c -o memoryManage.o memoryManage.cpp
+	@echo 'Finished building: $<'
+
+# All Target
+all: memoryManagement
+
+# Tool invocations
+memoryManagement: memoryManage.o
+	@echo 'Building target: $@'
+	@echo 'Invoking: Cross G++ Linker'
+	g++49 -static-libstdc++  -o "memoryManagement" ./memoryManage.o
+	@echo 'Finished building target: $@'
+	@echo ' '

@@ -1,0 +1,8 @@
+ENERGON2:
+
+MAKE:	 make -f makefile.mmu all
+
+OR
+
+COMPILE: g++49 -std=gnu++11 -c -o memoryManage.o memoryManage.cpp
+LINK:    g++49 -static-libstdc++  -o "memoryManagement" ./memoryManage.o
