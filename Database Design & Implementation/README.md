@@ -1,5 +1,9 @@
 # Database (SQL, NoSQL)
 
+All assignment submissions in this course are run through the Moss Plagiarism Detector from Stanford University, which works 
+very well.  If you copy this code and submit it as your own, you will be easily caught and prosecuted by the instructor for 
+failing to abide by the Academic Integrity Policy of NYU’s Computer Science Department.
+
 MongoDB Assignment Example:
 
 This assignment uses JSON, MongoDB, and NoSQL.
