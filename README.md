@@ -2,12 +2,9 @@
 
 [iOS Programming](./iOS%20Programming):
 
-In this course, I am learning to create applications for Apple’s iOS on both the iPhone and the iPad using Objective-C, 
-Apple's new programming language Swift, Apple iOS Frameworks, and the iOS SDK. I am building and testing applications on my 
+In this course, I learned to create applications for Apple’s iOS on both the iPhone and the iPad using Objective-C, 
+Apple's new programming language Swift, Apple iOS Frameworks, and the iOS SDK. I built and tested applications on my 
 Apple Mac using the Xcode development environment, compiler and simulator. 
-
-There is currently no code in the GitHub folder. If you would like to see samples, please e-mail me at xak200@nyu.edu.
-Code will be added at the end of the course in May 2016.
 
 
 -------------------
@@ -15,19 +12,17 @@ Code will be added at the end of the course in May 2016.
 
 [Intro to Machine Learning](./Intro%20to%20Machine%20Learning):
 
-In this class, I am learning about the theoretical foundations of machine learning and how to apply machine learning to solve 
+In this class, I learned about the theoretical foundations of machine learning and how to apply machine learning to solve 
 new problems.
 
-Topics covered so far include:
+Topics covered include:
 - Perceptron algorithm
 - Support vector machines (Pegasos algorithm)
 - Kernel methods
 - Learning theory
 - Decision Trees
 - K-means clustering
-
-There is currently no code in the GitHub folder. If you would like to see samples, please e-mail me at xak200@nyu.edu.
-Code will be added at the end of the course in May 2016.
+- Naive Bayes
 
 
 -------------------
