@@ -1,5 +1,6 @@
 # iOS Programming
 
-The sample Objective-C code creates a program  that displays the usernames and passwords for different websites. The program
-also displays counts, showing how many times the user logged into that account. The user is able to increment the count for a 
-particular website. Users are able to scroll through all the login info they have input into the application.
+The sample Swift code creates an application that allows a user to input her/his start location and final destination. The user 
+can then add as many tasks/errands as desired to accomplish on her/his route, without going out of her/his way. The user clicks
+a '+' button to add a task, and the application filters Yelp results to return only those in the direction the user will
+be going. 
