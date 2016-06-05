@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9532" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9530"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="On My Way Logo 0.png" translatesAutoresizingMaskIntoConstraints="NO" id="AjM-sA-CEv">
+                                <rect key="frame" x="175" y="65" width="250" height="280"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="250" id="ydk-BZ-gvW"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="On My Way" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7np-I1-VFR">
+                                <rect key="frame" x="218" y="382" width="164" height="56"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="164" id="1cC-5b-mW3"/>
+                                    <constraint firstAttribute="height" constant="56" id="SY2-vd-mdt"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" name="KohinoorBangla-Regular" family="Kohinoor Bangla" pointSize="30"/>
+                                <color key="textColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="7np-I1-VFR" firstAttribute="centerX" secondItem="AjM-sA-CEv" secondAttribute="centerX" id="JFc-G6-f8N"/>
+                            <constraint firstItem="xb3-aO-Qok" firstAttribute="top" secondItem="7np-I1-VFR" secondAttribute="bottom" constant="162" id="ix8-0Y-1c2"/>
+                            <constraint firstItem="AjM-sA-CEv" firstAttribute="top" secondItem="Llm-lL-Icb" secondAttribute="bottom" constant="45" id="q9E-nu-8EW"/>
+                            <constraint firstItem="7np-I1-VFR" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" id="wjG-gu-bB0"/>
+                            <constraint firstItem="7np-I1-VFR" firstAttribute="top" secondItem="AjM-sA-CEv" secondAttribute="bottom" constant="37" id="xAn-FH-gEt"/>
+                        </constraints>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="53" y="375"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="On My Way Logo 0.png" width="205" height="235"/>
+    </resources>
+</document>
