@@ -1,0 +1,1 @@
+For this assignment, I implemented the Mergesort algorithm and computed the number of inversions in the file supplied, where the i<sup>th</sup> row of the file indicates the i<sup>th</sup> entry of an array. 
